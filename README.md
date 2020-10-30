@@ -15,6 +15,8 @@ If any problem happens, you can try apt install python3.6-venv, then everything 
 
 First, activate your virtual_machine.
 
+Do remember: pip install ipykernel, otherwise, it wont be able to install the package 
+
 Then, ipython kernel install --user --name=kernel_name (py36_shap)
 
 ## Remove your kernal
