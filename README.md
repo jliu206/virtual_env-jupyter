@@ -17,6 +17,10 @@ First, activate your virtual_machine.
 
 Then, ipython kernel install --user --name=kernel_name (py36_shap)
 
+## Remove your kernal
+
+jupyter kernelspec remove old_kernel(specify your kernel)
+
 
 
 
